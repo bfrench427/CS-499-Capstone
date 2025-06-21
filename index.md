@@ -24,14 +24,16 @@ A fullstack web application built using the MEAN stack within Visual Studio Code
 
 <img width="1466" alt="Image" src="https://github.com/user-attachments/assets/6beb5555-a5a5-4ad2-92f7-36087b3a1485" />
 
-Files and narrative for this artifact are located [here](https://github.com/bfrench427/Artifact-One).
+Enhanced files and narrative for this artifact are located [here](https://github.com/bfrench427/Artifact-One).
+Original artifact submission is [here](https://github.com/bfrench427/CS-465-Portfolio).
 
 ## Artifact Two: Algorithms and Data Structures
 A model-free Deep Q reinforcement learning algorithm that teaches an intelligent agent to solve a maze problem.
 
 <img width="1354" alt="Image" src="https://github.com/user-attachments/assets/ee9f0ed2-c5a1-4afb-8a54-1b9e18b2ad2e" />
 
-Files and narrative for this artifact are located [here](https://github.com/bfrench427/Artifact-Two).
+Enhanced files and narrative for this artifact are located [here](https://github.com/bfrench427/Artifact-Two).
+Original artifact submission is [here](https://github.com/bfrench427/CS-370-Portfolio).
 
 ## Artifact Three: Databases
 This artifact is the same as the first category's artifact. 
@@ -42,4 +44,5 @@ This artifact is the same as the first category's artifact.
 
 <img width="1919" alt="Image" src="https://github.com/user-attachments/assets/ffee385c-88b3-49fa-85f4-766382597950" />
 
-Files and narrative for this artifact are located [here](https://github.com/bfrench427/Artifact-Three).
+Enhanced files and narrative for this artifact are located [here](https://github.com/bfrench427/Artifact-Three).
+Original artifact submission is [here](https://github.com/bfrench427/CS-465-Portfolio).
