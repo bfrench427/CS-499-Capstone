@@ -27,3 +27,8 @@ A fullstack web application built using the MEAN stack within Visual Studio Code
 ## Artifact Two: Algorithms and Data Structures
 A model-free Deep Q reinforcement learning algorithm that teaches an intelligent agent to solve a maze problem.
 
+<img width="1354" alt="Image" src="https://github.com/user-attachments/assets/ee9f0ed2-c5a1-4afb-8a54-1b9e18b2ad2e" />
+
+## Artifact Three: Databases
+This artifact is the same as the first category's artifact. 
+
