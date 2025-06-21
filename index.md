@@ -21,3 +21,5 @@ During the CS-305: Software Security course, I was tasked with conducting vulner
 
 ## Artifact One: Software Design and Engineering
 A fullstack web application built using the MEAN stack within Visual Studio Code. Allows users to add and edit trip data contained within a MongoDB database for a vacation booking website.
+
+<img width="1466" alt="Image" src="https://github.com/user-attachments/assets/6beb5555-a5a5-4ad2-92f7-36087b3a1485" />
