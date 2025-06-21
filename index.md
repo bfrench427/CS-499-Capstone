@@ -32,3 +32,6 @@ A model-free Deep Q reinforcement learning algorithm that teaches an intelligent
 ## Artifact Three: Databases
 This artifact is the same as the first category's artifact. 
 
+<img width="818" alt="Image" src="https://github.com/user-attachments/assets/5d8ede82-ad72-4599-9130-4edd198c3d60" />
+
+
