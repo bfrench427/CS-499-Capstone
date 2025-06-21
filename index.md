@@ -34,4 +34,6 @@ This artifact is the same as the first category's artifact.
 
 <img width="818" alt="Image" src="https://github.com/user-attachments/assets/5d8ede82-ad72-4599-9130-4edd198c3d60" />
 
+<img width="808" alt="Image" src="https://github.com/user-attachments/assets/6a6ac5fb-a450-44b5-9a8c-6832a48a1f82" />
 
+<img width="1919" alt="Image" src="https://github.com/user-attachments/assets/ffee385c-88b3-49fa-85f4-766382597950" />
