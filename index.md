@@ -17,3 +17,7 @@ The artifact from CS-465: Full Stack Development is a fullstack web application 
 During the CS-305: Software Security course, I was tasked with conducting vulnerability assessments on an artifact to determine where in the software different security risks existed. After conducting the vulnerability assessments, each one needed to be documented with its CVE code, which package was affected, the version of the package in question, and any current fixes available by checking the common vulnerabilities database. As such, I have experience in assessing the security of a program through its potential vulnerabilities, conducting vulnerability assessments within code, and taking measures to mitigate vulnerabilities to enhance security. 
 
 ## Artifact Summary
+
+
+## Artifact One: Software Design and Engineering
+A fullstack web application built using the MEAN stack within Visual Studio Code. Allows users to add and edit trip data contained within a MongoDB database for a vacation booking website.
